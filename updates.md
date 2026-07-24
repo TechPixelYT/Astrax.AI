@@ -1,0 +1,66 @@
+Release Notes (v1.3)
+Date: July 22, 2026
+Version 1.3 marks the biggest leap yet: TechPixel is now Astrax. What started in Base44 as TechPixel (v1.0 through v1.2) has moved to a new home built in Google AI Studio, and the difference is immediate — a sleeker, more modern design paired with a noticeably faster, more efficient AI. Under the hood, Astrax now runs on real API providers like GitHub Models and Mistral, and the Memory System has been rebuilt to be far more solid and reliable. Deep Research has taken a major step up too: it now does real web-crawling, shows the steps behind each search, and delivers polished final reports — all integrated directly into the chat. Everything you loved from TechPixel comes with you, including PixelGen, the image generator, now fully accessible inside Astrax. One honest heads-up: because Astrax relies on live API providers, you may notice occasional instability — we’re actively working to smooth that out.
+
+- Voice Dictation: Compose prompts and messages hands-free using integrated voice input, making interactions faster and more natural.
+- Enhanced Memory Core: TechPixel's memory system has been redesigned to focus on usefulness, transparency, and project continuity rather than passive information storage.
+- Project Continuity: TechPixel can remember active projects and offer to resume work where you left off, including previously completed systems and recommended next steps.
+- Improved Creative Workflow: Visual generation, planning, and project creation are now more tightly integrated into the overall TechPixel experience, reducing friction and streamlining iteration.
+- Automatic Text Attachments: Large blocks of pasted text are now automatically converted into organized text attachments, keeping conversations cleaner and easier to navigate while preserving formatting and editability.
+BTW, I am planning to remove PixelGen from Astrax for the next version and hopefully create Astrax;s one built-in image generator in v1.5.
+⚠️ Warning: Project Continuity, and several newly introduced systems remain in active development (Beta). Performance, recommendations, and feature availability may continue to evolve as improvements are rolled out.
+If you encounter any bugs, formatting issues, or unexpected behavior, please report them on Reddit: Contact Own_Body_9771 on Reddit.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Release Notes (v1.2)
+Date: June 12, 2026
+Welcome to version 1.2 of TechPixel Agent! This update introduces powerful creative tools, an advanced memory management system, and several quality-of-life interface improvements.
+
+- PixelGen Image Generation: Introducing the newest PixelGen engine directly into the platform.
+- Live Activity Feed: Track ongoing processes and system updates in real time.
+- Generation History: Access a dedicated history of all your previously generated images.
+- Research & Plan Upgrades: Both Research Mode and Plan Mode have been updated to version 0.2.0.
+- Dynamic Memory: Teach the Agent personal preferences or context simply by telling it to remember them.
+- Memory Control: Full privacy control allows you to completely delete stored memories at any time by asking the Agent to do so.
+- Instant Guest Sessions: Access core platform features instantly without signing in. This is perfect for quick testing, evaluations, or low-friction sandboxing.
+- Collaboration & Alerts: Added native chat sharing capabilities and system notifications.
+- AI-Named Chats: Conversations are now automatically given relevant titles by the AI.
+- Data Export: Export your chat logs directly into formatted PDF files.
+- Keyword Search: Added a search feature to quickly locate specific keywords within your chat history.
+- New Chat Layout: Refreshed the user interface for the New Chat page to improve workspace organization.
+- New Top Bar Layout: Cleaned up top-bar navigation for better accessibility.
+- Bloxd Updates: Integrated Bloxd updates directly onto the homepage dashboard.
+- Interactive Initialization Display: The refreshed home interface now features a simulated terminal diagnostic sequence (techpixel-ai --init) validating connection health across your Web Search link, - Memory Core, and WorldCode API indexing states.
+- Live Configuration Manifest: Active developer settings, tracking values like model parameters (gpt-4o), memory status, and core contexts, are now cleanly visualized inside an integrated inline code configuration panel.
+- Live Community Sync Footer: A dedicated activity ticker keeps developers locked into fresh platform changes across Reddit, BloxdHub, Fandom, and official game notes in real time.
+- Interface Variations: Ambient Layout Model features the glowing graphical platform badge and community network feed. ASCII Terminal Layout Model features the retro stylized title matrix accenting the workspace window focus.
+- Staggered Component Ripples: Implemented a staggered loading sequence for the navigation, logo, terminal, configuration, community feed, and call-to-action sections. Each element utilizes a blur-to-sharp transition and a slide-up animation to create a wave-like entry effect across the screen.
+- Visual Glow Enhancements: Integrated a live purple glow pulse effect for the primary logo within both the navigation and hero sections.
+- Dynamic Multi-Phase Intro Sequence: Includes the Logo Phase where the TechPixel ASCII logo enters with a high-intensity green glow and horizontal scan line sweep; the Burst Phase featuring a synchronized asset explosion of 12 unique items with individual descriptive labels; the Terminal Phase where a boot log terminal displays real-time system initialization status; and the Ripple Exit concluding with four expanding green ripple rings and a screen flash.
+- Session-Based Performance Optimization: The full intro sequence is cached via sessionStorage to ensure it plays only once per browser session, providing instant workspace access on subsequent revisits.
+
+⚠️ Warning: Research, Plan, PixelGen, and the Bloxd Homepage Updates are still actively in development (Beta).
+If you encounter any bugs, formatting issues, or unexpected errors, please reach out and report them on Reddit: Contact Own_Body_9771 on Reddit
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Release Notes (v1.1)
+First Update of TechPixel Agent
+Date: June 9, 2026   
+Welcome to the first major update for TechPixel Agent! This release focuses on automating workflows, adding advanced AI capabilities, streamlining the user interface, and introducing community-requested features.   
+
+- Automatic Workflow Selection: Removed separate Chatbot, Code Helper, and Mod Constructor modes. The AI now automatically determines and selects the best workflow tailored to your specific request.   
+- Plan Mode (v0.1.5): Updated the foundational planning capabilities (currently in Beta).   
+- AI Self-Review: Added an automated self-review layer before responses are finalized. This includes logic checks, consistency validation, and overall quality reviews.   
+- Generation Progress Messages: Added detailed status updates for longer tasks, including reminders such as: "This may take a few moments. Please keep this tab open while the AI completes your request."  
+- Centralized Enhancement Controls: Moved Attach Files, Extended Thinking, Deep Research, Web Search, and Effort options directly into the + menu.   
+- Decluttered Interface: Removed redundant top-bar planning, research, and effort controls.   
+- Legacy Removals: Removed outdated API References and legacy memory pages to improve overall UI simplicity, workspace organization, and AI transparency.   
+- Training Submissions: Integrated training submissions validated by the new training_note_checker agent (Suggested by BlueNoob).   
+- Account & Preference Management: Added a dedicated "What's New" page, user personalization options, memory preferences, custom themes, settings, and full profile management (Suggested by BlueNoob).   
+- Admin Dashboard: Added an administrator training review dashboard to manage and review submitted knowledge and documentation easily.   
+
+⚠️ Warning: Plan Mode and Research Mode are still actively in development (Beta).   
+If you encounter any bugs, formatting issues, or unexpected errors, please reach out and report them on Reddit:  Contact Own_Body_9771 on Reddit
