@@ -1,5 +1,5 @@
 Release Notes (v1.3)
-Date: July 28, 2026
+Date: July 26, 2026
 Version 1.3 marks the biggest leap yet: TechPixel is now Astrax. What started in Base44 as TechPixel (v1.0 through v1.2) has moved to a new home built in Google AI Studio, and the difference is immediate — a sleeker, more modern design paired with a noticeably faster, more efficient AI. Under the hood, Astrax now runs on real API providers like GitHub Models and Mistral, and the Memory System has been rebuilt to be far more solid and reliable. Deep Research has taken a major step up too: it now does real web-crawling, shows the steps behind each search, and delivers polished final reports — all integrated directly into the chat. Everything you loved from TechPixel comes with you, including PixelGen, the image generator, now fully accessible inside Astrax. One honest heads-up: because Astrax relies on live API providers, you may notice occasional instability — we’re actively working to smooth that out.
 
 - Advanced Deep Research Upgrade: Compared with the earlier Research experience in v1.1 and v1.2, Astrax now uses a more advanced investigation engine powered by a multi-agent Mistral architecture with live web search and official Bloxd Fandom Wiki API integration.
