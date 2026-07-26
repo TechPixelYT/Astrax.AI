@@ -1,7 +1,7 @@
 # Release Notes (v1.3): Astrax Transition
 
 ## Major Platform Upgrade
-**Date:** July 24, 2026
+**Date:** July 26, 2026
 
 Version 1.3 marks the biggest leap yet: TechPixel is now Astrax. What started in Base44 as TechPixel (v1.0 through v1.2) has moved to a new home built in Google AI Studio, bringing a sleeker, more modern experience paired with a faster and more efficient AI.
 
