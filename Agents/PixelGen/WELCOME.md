@@ -1,5 +1,5 @@
 # 🎨 PixelGen AI for Bloxd.io
-> **The official AI-driven image generation engine within the TechPixel AI ecosystem.**
+> **The official AI-driven image generation engine within the Astrax AI ecosystem.**
 
 PixelGen is specifically engineered for the **Bloxd.io** and **BloxdHub** communities. It bridges the gap between creative intent and game-ready assets by translating high-level concepts into voxel-perfect visual data.
 

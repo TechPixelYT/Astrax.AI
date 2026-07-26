@@ -65,17 +65,4 @@ Enforce pixel-perfect consistency across your entire project. Switch between mul
 
 ## 🧠 Technical Deep-Dive: The `DiaThinkingFeed` Architecture
 
-**Transparency** is an uncompromised core pillar of the PixelGen engine design. During the intensive image generation lifecycle, the user interface completely abandons primitive, non-interactive loading wheels. Instead, the system mounts the `DiaThinkingFeed`—a **live, telemetry-style stream** that exposes the AI's internal reasoning, multi-stage prompt validation, and asynchronous backend pipeline progression in real-time.
-
-### 🖥️ Real-Time Telemetry Stream Preview
-When a generation payload is initialized, the component renders a simulated low-level terminal execution log directly within the client view:
-
-```text
-[SYSTEM]   :: 🚀 Initializing TechPixel Orchestration Pipeline...
-[PARSING]  :: 🔍 Extracting semantic tokens from raw user input string.
-[LLM-IPE]  :: 🧠 Injecting voxel geometric constraints & atmospheric lighting matrices...
-[OPTIMIZE] :: ✨ Prompt enhanced successfully. Context-awareness layer verified.
-[SAMPLING] :: 🔄 Committing optimized payload to diffusion model via InvokeLLM pipeline.
-[RENDER]   :: 🎨 Synthesizing image layers (Steps: 30/30 | CFG: 7.5 | Seed: 41829501).
-[DATABASE] :: 💾 Schema entity model 'GeneratedImage' committed to local cache.
-[SUCCESS]  :: 🎉 Generation lifecycle complete. Displaying asset inside Gallery view.
+**Transparency** is an uncompromised core pillar of the PixelGen engine design. During the intensive image generation lifecycle, the user interface completely abandons primitive, non-interactive loading wheels. Instead, the system mounts the `DiaThinkingFeed`—a **live, telemetry-style stream** that exposes the AI's internal reasoning, multi-stage prom

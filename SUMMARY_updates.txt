@@ -1,14 +1,19 @@
 Release Notes (v1.3)
-Date: July 22, 2026
+Date: July 28, 2026
 Version 1.3 marks the biggest leap yet: TechPixel is now Astrax. What started in Base44 as TechPixel (v1.0 through v1.2) has moved to a new home built in Google AI Studio, and the difference is immediate — a sleeker, more modern design paired with a noticeably faster, more efficient AI. Under the hood, Astrax now runs on real API providers like GitHub Models and Mistral, and the Memory System has been rebuilt to be far more solid and reliable. Deep Research has taken a major step up too: it now does real web-crawling, shows the steps behind each search, and delivers polished final reports — all integrated directly into the chat. Everything you loved from TechPixel comes with you, including PixelGen, the image generator, now fully accessible inside Astrax. One honest heads-up: because Astrax relies on live API providers, you may notice occasional instability — we’re actively working to smooth that out.
 
+- Advanced Deep Research Upgrade: Compared with the earlier Research experience in v1.1 and v1.2, Astrax now uses a more advanced investigation engine powered by a multi-agent Mistral architecture with live web search and official Bloxd Fandom Wiki API integration.
+- Structured Investigation Workflow: Research now breaks complex questions into a multi-step plan and deploys dedicated sub-agents for data gathering, verification, and synthesis, helping eliminate hallucinated items and fake weapon claims.
+- Research UI Enhancements: The experience now includes a compact purple microscope icon in the composer, real-time research progress cards, animated execution badges, and a polished final report reader with slide-in presentation.
 - Voice Dictation: Compose prompts and messages hands-free using integrated voice input, making interactions faster and more natural.
 - Enhanced Memory Core: TechPixel's memory system has been redesigned to focus on usefulness, transparency, and project continuity rather than passive information storage.
 - Project Continuity: TechPixel can remember active projects and offer to resume work where you left off, including previously completed systems and recommended next steps.
 - Improved Creative Workflow: Visual generation, planning, and project creation are now more tightly integrated into the overall TechPixel experience, reducing friction and streamlining iteration.
+- Refined Interface Experience: Smoother animations, richer visual effects, and snappier transitions make the experience feel more alive and polished.
+- Cleaner, More Streamlined Layout: The interface feels less cluttered and easier to navigate, helping you get where you need to go with less friction.
 - Automatic Text Attachments: Large blocks of pasted text are now automatically converted into organized text attachments, keeping conversations cleaner and easier to navigate while preserving formatting and editability.
-BTW, I am planning to remove PixelGen from Astrax for the next version and hopefully create Astrax;s one built-in image generator in v1.5.
-⚠️ Warning: Project Continuity, and several newly introduced systems remain in active development (Beta). Performance, recommendations, and feature availability may continue to evolve as improvements are rolled out.
+BTW, I am planning to remove PixelGen from Astrax for the next version and hopefully create Astrax's built-in image generator in v1.5.
+⚠️ Warning: Deep Research, and several newly introduced systems remain in active development (Beta). Performance and feature availability may continue to evolve as improvements are rolled out.
 If you encounter any bugs, formatting issues, or unexpected behavior, please report them on Reddit: Contact Own_Body_9771 on Reddit.
 
 

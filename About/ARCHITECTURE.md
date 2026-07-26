@@ -2,15 +2,15 @@
 
 # 🏗 Architecture Overview
 
-### *How TechPixel Agent (v1.2) Works*
+### *How Astrax (v1.3) Works*
 
-Understanding the systems that power TechPixel.
+Understanding the systems that power Astrax.
 
-From a single prompt to a fully generated response, TechPixel combines multiple layers of intelligence designed specifically for the Bloxd.io ecosystem.
+From a single prompt to a fully generated response, Astrax combines multiple layers of intelligence designed specifically for the Bloxd.io ecosystem.
 
 ---
 
-**This document provides a high-level overview of the major systems and execution pathways used throughout TechPixel Agent v1.2.**
+**This document provides a high-level overview of the major systems and execution pathways used throughout Astrax v1.3.**
 
 </div>
 
@@ -18,11 +18,11 @@ From a single prompt to a fully generated response, TechPixel combines multiple 
 
 # 🎯 Design Philosophy
 
-TechPixel was designed around one simple principle:
+Astrax was designed around one simple principle:
 
 > **Specialized AI is more useful than general AI.**
 
-Instead of attempting to solve every possible problem, TechPixel focuses exclusively on helping Bloxd.io creators build faster, research deeper, and organize their projects more effectively.
+Instead of trying to solve every possible problem, Astrax focuses on helping Bloxd.io creators build faster, research deeper, and organize projects more effectively.
 
 The architecture prioritizes:
 
@@ -32,12 +32,13 @@ The architecture prioritizes:
 - 📚 Knowledge persistence
 - 🛠 Developer productivity
 - 🎨 Creative workflows
+- 🔎 Reliable research verification
 
 ---
 
 # 🔄 High-Level Architecture
 
-At its core, TechPixel follows a layered execution model.
+At its core, Astrax follows a layered execution model.
 
 ```text
                 ┌──────────────────┐
@@ -55,35 +56,37 @@ At its core, TechPixel follows a layered execution model.
               ┌──────────────────────┐
               │ Runtime Configuration │
               │  Research / Planning  │
-              │  Effort Selection     │
+              │  Voice / Continuity   │
               └────────┬─────────────┘
                        │
                        ▼
-             ┌───────────────────────┐
-             │ GPT-4o Runtime Engine │
-             └────────┬──────────────┘
-                      │
-      ┌───────────────┼────────────────┐
-      │               │                │
-      ▼               ▼                ▼
-┌─────────┐   ┌────────────┐   ┌────────────┐
-│ Memory  │   │ Web Search │   │ PixelGen   │
-│  Core   │   │ Integration│   │ Generation │
-└────┬────┘   └─────┬──────┘   └─────┬──────┘
-     │              │                │
-     └──────┬───────┴───────┬────────┘
-            │               │
-            ▼               ▼
-     ┌─────────────────────────┐
-     │ Response Construction   │
-     │ Validation & Formatting │
-     └──────────┬──────────────┘
-                │
-                ▼
-      ┌─────────────────────┐
-      │ User Interface Layer│
-      │ Export & Persistence│
-      └─────────────────────┘
+           ┌────────────────────────────┐
+           │ Astrax Runtime Engine       │
+           │ Multi-Agent + Model Routing │
+           └────────┬───────────────────┘
+                    │
+      ┌─────────────┼───────────────────────┐
+      │             │                       │
+      ▼             ▼                       ▼
+┌────────────┐ ┌──────────────┐       ┌────────────┐
+│ Memory     │ │ Deep Research │       │ PixelGen   │
+│ Core       │ │ Engine       │       │ Generation │
+└─────┬──────┘ └──────┬───────┘       └─────┬──────┘
+      │               │                      │
+      └──────┬────────┴───────┬────────────┘
+             │                │
+             ▼                ▼
+      ┌──────────────────────────────┐
+      │ Response Construction        │
+      │ Validation / Formatting      │
+      └──────────┬───────────────────┘
+                 │
+                 ▼
+      ┌──────────────────────────────┐
+      │ Astrax UI Layer             │
+      │ Voice Input / Reports /     │
+      │ Project Continuity          │
+      └──────────────────────────────┘
 ```
 
 ---
@@ -115,9 +118,9 @@ The Input Processing Layer determines:
 
 # ⚙ Runtime Configuration Layer
 
-Before generation begins, TechPixel configures its runtime behavior.
+Before generation begins, Astrax configures its runtime behavior.
 
-This layer determines how the AI should think.
+This layer determines how the AI should think, search, and respond.
 
 ---
 
@@ -161,33 +164,36 @@ Best for:
 
 ---
 
-# 🔍 Research Mode (v0.2.0)
+# 🔍 Deep Research (v1.3)
 
-Research Mode is designed for investigative tasks.
+Astrax’s Deep Research experience is a major upgrade over the earlier research systems in v1.1 and v1.2.
 
 It prioritizes:
 
-- Exploration
-- Information gathering
-- Structured findings
-- Alternative perspectives
+- Live web crawling
+- Structured investigation
+- Source-backed findings
+- Verification against official Bloxd resources
+- Reduced hallucination risk
+
+When enabled, Astrax breaks complex questions into a multi-step plan and uses dedicated sub-agents to gather, verify, and synthesize information. This includes live web search and official Bloxd Fandom Wiki API integration.
 
 Example:
 
 ```text
-Research effective economy systems for Bloxd RPG servers.
+Research the strongest progression systems for Bloxd RPG competitions.
 ```
 
 Produces:
 
-- Key findings
-- Analysis
-- Considerations
-- Recommendations
+- Step-by-step research plans
+- Verified findings
+- Structured recommendations
+- Polished final reports
 
 ---
 
-# 🗺 Plan Mode (v0.2.0)
+# 🗺 Plan Mode
 
 Plan Mode transforms broad ideas into actionable plans.
 
@@ -206,9 +212,9 @@ Outputs may include:
 
 ---
 
-# 🧠 GPT-4o Runtime Engine
+# 🧠 Astrax Runtime Engine
 
-At the center of TechPixel is the GPT-4o runtime.
+At the center of Astrax is a modern runtime designed for speed and reliability.
 
 Responsible for:
 
@@ -219,23 +225,24 @@ Responsible for:
 - Reasoning
 - Planning
 - Research synthesis
+- Project continuity support
 
 The runtime adapts its behavior based on the active configuration.
 
 ---
 
-# 🌐 Web Search Integration
+# 🌐 Web Search & Wiki Integration
 
-TechPixel can supplement responses using live web information.
+Astrax can supplement responses using live web information and official Bloxd Fandom Wiki API endpoints.
 
-The Web Search Layer helps reduce outdated responses by incorporating current references when appropriate.
+The research layer helps reduce outdated or inaccurate responses by grounding investigations in current, authentic sources whenever possible.
 
 Uses include:
 
 - Verifying information
 - Finding recent updates
-- Referencing external documentation
-- Supporting research workflows
+- Referencing official documentation
+- Supporting Deep Research workflows
 
 ---
 
@@ -249,6 +256,7 @@ Memory may include:
 - Ongoing project context
 - Communication styles
 - Frequently referenced information
+- Active project continuity details
 
 Examples:
 
@@ -262,9 +270,25 @@ Memory exists to reduce repetition and improve continuity.
 
 ---
 
+# 🎤 Voice Dictation
+
+Astrax supports hands-free voice input for composing prompts and messages.
+
+This helps make interactions faster, more natural, and more accessible during active workflows.
+
+---
+
+# 🧾 Automatic Text Attachments
+
+Large blocks of pasted text are automatically converted into organized text attachments.
+
+This keeps conversations cleaner while preserving formatting and editability.
+
+---
+
 # 🖼 PixelGen Integration
 
-PixelGen provides image generation capabilities directly within TechPixel.
+PixelGen provides image generation capabilities directly within Astrax.
 
 PixelGen accepts natural language prompts and produces Bloxd-inspired visuals.
 
@@ -282,7 +306,7 @@ PixelGen generations are tracked through Generation History.
 
 # 📚 Training Pipeline
 
-TechPixel supports community-driven knowledge expansion.
+Astrax supports community-driven knowledge expansion.
 
 The training pipeline follows this workflow:
 
@@ -322,7 +346,7 @@ This helps maintain reliability within the knowledge base.
 
 # 🖥 User Interface Layer
 
-TechPixel uses a terminal-inspired interface designed around productivity.
+Astrax uses a more refined interface built around clarity, responsiveness, and productivity.
 
 Major UI systems include:
 
@@ -338,27 +362,19 @@ Provides access to:
 
 ---
 
+## Research Report Reader
+
+Presents completed Deep Research investigations in a polished, interactive experience with animated transitions and structured presentation.
+
+---
+
 ## Interactive Initialization
 
-Simulates a terminal startup experience featuring:
+Simulates a modern startup experience featuring:
 
 - Diagnostic checks
 - System status indicators
 - Boot sequences
-
----
-
-## Live Configuration Manifest
-
-Displays active system information.
-
-Examples include:
-
-```text
-model: gpt-4o
-memory: active
-research: enabled
-```
 
 ---
 
@@ -377,7 +393,7 @@ Sources may include:
 
 # 💾 Persistence & Export
 
-TechPixel supports preserving work beyond the current session.
+Astrax supports preserving work beyond the current session.
 
 Features include:
 
@@ -413,7 +429,7 @@ Maintains previous conversations for returning users.
 
 # 🔄 Complete Request Lifecycle
 
-The following illustrates a typical TechPixel interaction.
+The following illustrates a typical Astrax interaction.
 
 ```text
 User Prompt
@@ -422,11 +438,11 @@ Prompt Classification
       ↓
 Runtime Configuration
       ↓
-GPT-4o Processing
+Astrax Processing
       ↓
 Memory Retrieval
       ↓
-Web Search (Optional)
+Deep Research / Web Search (Optional)
       ↓
 PixelGen Invocation (If Needed)
       ↓
@@ -441,7 +457,7 @@ History & Persistence
 
 # 🎯 Architectural Goals
 
-TechPixel's architecture is designed to achieve the following objectives:
+Astrax's architecture is designed to achieve the following objectives:
 
 - Provide Bloxd-specific assistance.
 - Minimize repetitive work.
@@ -450,12 +466,13 @@ TechPixel's architecture is designed to achieve the following objectives:
 - Personalize experiences through memory.
 - Encourage community contributions.
 - Remain accessible through a browser-first experience.
+- Improve research reliability through structured verification.
 
 ---
 
 <div align="center">
 
-## ⚡ TechPixel Agent v1.2
+## ⚡ Astrax v1.3
 
 **Built for the Bloxd Community.**
 

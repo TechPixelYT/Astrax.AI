@@ -4,11 +4,11 @@
 
 ### *Your Data. Your Control.*
 
-Understanding how TechPixel Agent (v1.2) handles conversations, memories, training submissions, and personalization.
+Understanding how Astrax (v1.3) handles conversations, memories, training submissions, and personalization.
 
 ---
 
-**TechPixel was designed with a simple philosophy:**
+**Astrax was designed with a simple philosophy:**
 
 > **You should always understand what information is being used, why it is being used, and how to control it.**
 
@@ -18,7 +18,7 @@ Understanding how TechPixel Agent (v1.2) handles conversations, memories, traini
 
 # 🛡 Privacy Philosophy
 
-TechPixel Agent aims to provide personalized assistance while giving users meaningful control over their information.
+Astrax aims to provide personalized assistance while giving users meaningful control over their information.
 
 The platform is designed around the following principles:
 
@@ -32,9 +32,9 @@ The platform is designed around the following principles:
 
 # 🧠 Understanding Memory
 
-One of TechPixel's optional features is **Dynamic Memory**.
+One of Astrax’s optional features is **Dynamic Memory**.
 
-Dynamic Memory allows TechPixel to remember information across conversations to create a more personalized experience.
+Dynamic Memory allows Astrax to remember information across conversations to create a more personalized experience.
 
 For example:
 
@@ -44,7 +44,7 @@ For example:
 
 > "Remember that I mostly work with WorldCode."
 
-This information helps reduce repetition and allows TechPixel to better understand your preferences over time.
+This information helps reduce repetition and allows Astrax to better understand your preferences over time.
 
 ---
 
@@ -94,7 +94,7 @@ Patterns that improve future interactions.
 Examples:
 
 ```text
-I prefer Research Mode for large questions.
+I prefer Deep Research for large questions.
 
 I usually export conversations as PDFs.
 
@@ -124,7 +124,7 @@ If information is important, consider exporting conversations separately.
 
 You remain in control of your stored memories.
 
-You can instruct TechPixel to modify memory using natural language.
+You can instruct Astrax to modify memory using natural language.
 
 Examples:
 
@@ -158,9 +158,17 @@ Memory controls are designed to be straightforward and accessible.
 
 ---
 
+# 🧠 Project Continuity
+
+Astrax can remember active projects and offer to resume work where you left off.
+
+This feature may rely on stored context and project-related preferences. You can review or remove this information at any time.
+
+---
+
 # 👤 Guest Sessions
 
-TechPixel supports Guest Sessions.
+Astrax supports Guest Sessions.
 
 Guest Sessions are intended for users who want immediate access without signing in.
 
@@ -189,13 +197,14 @@ Guest Sessions prioritize accessibility over continuity.
 
 # 💬 Conversations & Chat History
 
-TechPixel may retain conversations to provide features such as:
+Astrax may retain conversations to provide features such as:
 
 - Chat history
 - AI-generated chat titles
 - Keyword search
 - Export functionality
 - Session continuity
+- Research report history
 
 ---
 
@@ -218,7 +227,7 @@ If conversations contain important information, users are encouraged to export a
 
 # 📄 PDF Exports
 
-TechPixel allows conversations to be exported into PDF documents.
+Astrax allows conversations to be exported into PDF documents.
 
 PDF exports are useful for:
 
@@ -235,13 +244,13 @@ Once exported:
 
 > The resulting PDF becomes your responsibility to manage and protect.
 
-TechPixel cannot control how exported files are shared, distributed, or stored externally.
+Astrax cannot control how exported files are shared, distributed, or stored externally.
 
 ---
 
 # 📚 Training Submissions
 
-TechPixel supports community-driven knowledge improvements.
+Astrax supports community-driven knowledge improvements.
 
 Users may voluntarily submit:
 
@@ -286,15 +295,15 @@ Only submit information that you are comfortable contributing to improve the pla
 
 ---
 
-# 🌐 Web Search
+# 🌐 Web Search & Deep Research
 
-Some TechPixel features may utilize Web Search capabilities.
+Astrax’s Deep Research and live search features may use external web sources and official Bloxd Fandom Wiki API endpoints.
 
-Web Search exists to:
+These capabilities exist to:
 
 - Gather additional context
 - Verify information
-- Support Research Mode
+- Support research workflows
 - Improve answer quality
 
 ---
@@ -314,7 +323,7 @@ Users should exercise judgment when relying on externally sourced information.
 
 # 🔔 Notifications & Activity Features
 
-TechPixel includes productivity features such as:
+Astrax includes productivity features such as:
 
 - Notifications
 - Activity feeds
@@ -329,7 +338,7 @@ They are not intended to monitor user behavior beyond their operational purpose.
 
 # 🎨 Personalization Features
 
-TechPixel offers several personalization options.
+Astrax offers several personalization options.
 
 Examples include:
 
@@ -354,6 +363,7 @@ Users should understand that:
 - Memories may not always behave as expected.
 - Features may evolve over time.
 - Beta functionality may change between releases.
+- Live APIs can occasionally be unstable.
 
 Critical decisions should not rely solely on AI-generated output.
 
@@ -361,7 +371,7 @@ Critical decisions should not rely solely on AI-generated output.
 
 # 📢 Changes to This Document
 
-As TechPixel evolves, this Privacy document may also evolve.
+As Astrax evolves, this Privacy document may also evolve.
 
 Changes may occur due to:
 
@@ -376,7 +386,7 @@ The latest version of this document should always be considered authoritative fo
 
 # ❤️ Our Commitment
 
-TechPixel was built for the Bloxd community.
+Astrax was built for the Bloxd community.
 
 Our goal is not only to provide powerful tools, but to provide them responsibly.
 
@@ -393,7 +403,7 @@ We believe users deserve:
 
 <div align="center">
 
-## 🔒 TechPixel Agent (v1.2)
+## 🔒 Astrax (v1.3)
 
 **Your Data. Your Control.**
 

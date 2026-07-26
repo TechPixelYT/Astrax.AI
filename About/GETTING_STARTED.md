@@ -1,14 +1,14 @@
 <div align="center">
 
-# 🚀 Getting Started with TechPixel Agent (v1.2)
+# 🚀 Getting Started with Astrax (v1.3)
 
 ### *From Idea → Implementation → Deployment*
 
-Learn how to make the most of TechPixel Agent and its Bloxd-focused AI capabilities.
+Learn how to make the most of Astrax and its Bloxd-focused AI capabilities.
 
 ---
 
-**New to TechPixel?**
+**New to Astrax?**
 
 This guide will walk you through everything you need to know to begin creating with confidence.
 
@@ -20,7 +20,7 @@ This guide will walk you through everything you need to know to begin creating w
 
 ## Requirements
 
-TechPixel runs entirely in your browser.
+Astrax runs in your browser.
 
 You only need:
 
@@ -40,19 +40,15 @@ No setup required.
 
 ---
 
-# 🌐 Step 1: Open TechPixel
+# 🌐 Step 1: Open Astrax
 
-Navigate to:
-
-> **https://techpixel.base44.app**
-
-You'll immediately be taken into the TechPixel workspace.
+Open your Astrax workspace through the deployment linked to your project or account.
 
 If you simply want to explore, you can begin instantly using Guest Mode.
 
 ---
 
-# 👤 Step 2: Choose How You Want to Use TechPixel
+# 👤 Step 2: Choose How You Want to Use Astrax
 
 ## Guest Sessions
 
@@ -60,7 +56,7 @@ Perfect for:
 
 - Quick questions
 - Testing features
-- Trying TechPixel for the first time
+- Trying Astrax for the first time
 - Short-term experimentation
 
 Benefits:
@@ -82,12 +78,13 @@ Benefits include:
 - Saved preferences
 - Personalized experiences
 - Access across sessions
+- Project continuity support
 
 ---
 
 # 💬 Step 3: Start Your First Conversation
 
-TechPixel understands natural language.
+Astrax understands natural language.
 
 Simply type what you want.
 
@@ -111,9 +108,9 @@ Simply type what you want.
 
 ---
 
-### Research
+### Deep Research
 
-> Research the best ways to structure a Bloxd economy.
+> Research the best progression systems for Bloxd RPG competitions.
 
 ---
 
@@ -129,112 +126,32 @@ Just describe your goal.
 
 ---
 
-# 📁 Step 4: Use WorldCode Templates
+# 🔍 Step 4: Use Deep Research
 
-TechPixel includes built-in templates to help you get started faster.
+Deep Research is one of Astrax's biggest v1.3 upgrades.
 
-Navigate to the template workspace and choose a starting point.
-
-## Available Templates
-
-### `killstreak.js`
-
-Create systems that reward players for consecutive eliminations.
-
-Use Cases:
-
-- PvP arenas
-- Minigames
-- Ranked modes
-
----
-
-### `spawn_entity.js`
-
-Spawn entities dynamically using player coordinates.
-
-Use Cases:
-
-- Boss encounters
-- Events
-- NPC systems
-
----
-
-### `team_balance.js`
-
-Automatically balance teams.
-
-Use Cases:
-
-- Competitive matches
-- Team-based minigames
-- Fair matchmaking
-
----
-
-### `shop_gui.js`
-
-Build interactive shop interfaces.
-
-Use Cases:
-
-- Economy systems
-- Currency mechanics
-- Upgrade menus
-
----
-
-### `api_lookup.ts`
-
-Reference Bloxd APIs instantly.
-
-Use Cases:
-
-- Learning WorldCode
-- Finding functions
-- Understanding syntax
-
----
-
-### `leaderboard.js`
-
-Track competitive performance.
-
-Use Cases:
-
-- Seasonal rankings
-- Kill leaderboards
-- Score systems
-
----
-
-# 🔍 Step 5: Use Research Mode
-
-Research Mode helps you investigate complex topics.
-
-Perfect when you need deeper understanding before implementation.
+It is ideal when you need a structured, verified investigation rather than a simple answer.
 
 ## Example
 
 Instead of asking:
 
-> How do I make a progression system?
+> How do I build a progression system?
 
 Try:
 
 > Research effective progression systems for Bloxd RPG servers.
 
-Research Mode can help you:
+Deep Research can help you:
 
-- Analyze systems
-- Explore alternatives
-- Investigate best practices
-- Break down difficult topics
+- Break a problem into steps
+- Use live web and wiki-backed verification
+- Compare ideas and recommendations
+- Produce a polished report directly in chat
 
 ---
 
-# 🗺 Step 6: Use Plan Mode
+# 🗺 Step 5: Use Plan Mode
 
 Plan Mode transforms ideas into actionable roadmaps.
 
@@ -246,7 +163,7 @@ Ask:
 
 > Plan a prison server from start to launch.
 
-TechPixel can generate:
+Astrax can generate:
 
 - Development phases
 - Milestones
@@ -256,9 +173,19 @@ TechPixel can generate:
 
 ---
 
+# 🎤 Step 6: Use Voice Dictation & Text Attachments
+
+Astrax supports voice dictation for quick, hands-free prompting.
+
+You can also paste large blocks of text and let Astrax organize them into attachments automatically.
+
+This makes long-form work easier to manage.
+
+---
+
 # 🖼 Step 7: Generate Images with PixelGen
 
-PixelGen is integrated directly into TechPixel.
+PixelGen is integrated directly into Astrax.
 
 Use it whenever visual inspiration is needed.
 
@@ -285,9 +212,9 @@ The more detail you provide, the better the results.
 
 ---
 
-# 🧠 Step 8: Teach TechPixel with Memory
+# 🧠 Step 8: Teach Astrax with Memory
 
-TechPixel can remember information across sessions.
+Astrax can remember information across sessions.
 
 Examples include:
 
@@ -303,7 +230,7 @@ Examples include:
 
 You remain in control.
 
-You can ask TechPixel to:
+You can ask Astrax to:
 
 > Forget everything you know about me.
 
@@ -315,9 +242,17 @@ at any time.
 
 ---
 
-# 📚 Step 9: Submit Training Knowledge
+# 🔄 Step 9: Use Project Continuity
 
-Help improve TechPixel's Bloxd expertise.
+Astrax can remember active projects and offer to resume work where you left off.
+
+This is especially useful when you return to larger builds, research workflows, or long-running creative tasks.
+
+---
+
+# 📚 Step 10: Submit Training Knowledge
+
+Help improve Astrax's Bloxd expertise.
 
 You can submit:
 
@@ -333,9 +268,9 @@ This helps maintain quality and accuracy.
 
 ---
 
-# 📤 Step 10: Export and Share
+# 📤 Step 11: Export and Share
 
-TechPixel includes collaboration tools to help you share your work.
+Astrax includes collaboration tools to help you share your work.
 
 ## Available Options
 
@@ -363,36 +298,6 @@ Useful for:
 
 ---
 
-# 🔎 Step 11: Find Information Quickly
-
-Use Keyword Search to instantly locate information.
-
-Search through:
-
-- Previous conversations
-- Generated discussions
-- Saved chat history
-
-Perfect when revisiting older projects.
-
----
-
-# ⚙️ Step 12: Customize Your Experience
-
-Visit the Settings menu to personalize TechPixel.
-
-Options include:
-
-- Profile settings
-- Theme selection
-- Memory preferences
-- System configurations
-- Notification controls
-
-Make TechPixel work the way you prefer.
-
----
-
 # 💡 Recommended Workflows
 
 ## Building a New Bloxd Project
@@ -400,7 +305,7 @@ Make TechPixel work the way you prefer.
 ```text
 Idea
 ↓
-Research Mode
+Deep Research
 ↓
 Plan Mode
 ↓
@@ -418,7 +323,7 @@ Export & Share
 ```text
 Paste Code
 ↓
-Ask TechPixel to Debug
+Ask Astrax to Debug
 ↓
 Review Explanations
 ↓
@@ -448,11 +353,11 @@ Build Your Own Systems
 # ⭐ Tips for Success
 
 - Start with simple prompts.
-- Use templates whenever possible.
-- Enable Research Mode for complex topics.
+- Use Deep Research for complex topics.
 - Use Plan Mode before large projects.
 - Be descriptive when using PixelGen.
 - Take advantage of Memory for recurring workflows.
+- Use Project Continuity when returning to long-running work.
 - Export important conversations for safekeeping.
 
 ---
@@ -461,9 +366,9 @@ Build Your Own Systems
 
 Congratulations!
 
-You now know the fundamentals of using TechPixel Agent.
+You now know the fundamentals of using Astrax.
 
-Whether you're creating your first Bloxd script or planning your next major project, TechPixel is designed to help you move faster, think deeper, and build with confidence.
+Whether you're creating your first Bloxd script or planning your next major project, Astrax is designed to help you move faster, think deeper, and build with confidence.
 
 ---
 
@@ -471,7 +376,7 @@ Whether you're creating your first Bloxd script or planning your next major proj
 
 ## ⚡ Happy Building!
 
-**TechPixel Agent (v1.2)**
+**Astrax (v1.3)**
 
 *Built for the Bloxd Community.*
 

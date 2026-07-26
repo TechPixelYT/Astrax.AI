@@ -1,5 +1,5 @@
 
-# Release Notes (v1.1) : techpixelv11.base44.app
+# Release Notes (v1.1)
 
 ## First Update of TechPixel Agent
 **Date:** June 9, 2026

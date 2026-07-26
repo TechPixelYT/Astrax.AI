@@ -1,24 +1,24 @@
 <div align="center">
 
-# ⚡ TechPixel Agent (v1.2)
+# ⚡ Astrax (v1.3)
 
 ### *The AI-Powered Bloxd.io Development Assistant*
 
 Built specifically for the **Bloxd.io** community.
 
-Design. Research. Code. Create.
+Design. Research. Build. Create.
 
 **All from your browser.**
 
-[🌐 Launch TechPixel](https://techpixel.base44.app) •
-[🚀 Getting Started](GETTING_STARTED.md) •
-[🏗 Architecture](ARCHITECTURE.md) •
-[🔒 Privacy](PRIVACY.md)
+[🌐 Launch Astrax](https://astrax.ai.studio) •
+[🚀 Getting Started](About/GETTING_STARTED.md) •
+[🏗 Architecture](About/ARCHITECTURE.md) •
+[🔒 Privacy](About/PRIVACY.md)
 
 ---
 
-![Version](https://img.shields.io/badge/version-v1.2-purple)
-![Platform](https://img.shields.io/badge/platform-Web-blue)
+![Version](https://img.shields.io/badge/version-v1.3-purple)
+![Platform](https://img.shields.io/badge/platform-Astrax-blue)
 ![Status](https://img.shields.io/badge/status-Active-success)
 ![Bloxd](https://img.shields.io/badge/Bloxd.io-Specialized-orange)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
@@ -27,47 +27,31 @@ Design. Research. Code. Create.
 
 ---
 
-# ✨ What is TechPixel?
+# ✨ What is Astrax?
 
-TechPixel Agent is a specialized AI assistant and terminal-inspired development environment built **exclusively for Bloxd.io**.
+Astrax is the next evolution of TechPixel Agent, now operating as a faster, more modern Bloxd.io-focused AI experience built in Google AI Studio.
 
-Unlike general-purpose AI systems, TechPixel understands the unique workflows, scripting patterns, and development processes used throughout the Bloxd ecosystem.
+It combines WorldCode assistance, deeper research, creative generation, and project continuity into a single streamlined workspace. Whether you're debugging scripts, planning a new system, researching mechanics, or resuming an older project, Astrax is designed to help creators work faster and think more clearly.
 
-Whether you're debugging WorldCode scripts, planning an entirely new game mode, generating creative assets, researching mechanics, or organizing project ideas, TechPixel is designed to help Bloxd creators build faster and smarter.
-
-> **Think of TechPixel as an AI copilot built specifically for Bloxd developers.**
+> **Think of Astrax as your Bloxd-focused AI copilot, now with stronger research, voice input, and continuity across projects.**
 
 ---
 
-# 🌐 Accessing TechPixel
+# 🌐 Accessing Astrax
 
-## Latest Version
+## Current Experience
 
-> **https://techpixel.base44.app**
+Access the latest Astrax experience at:
 
----
+> **https://astrax.ai.studio**
 
-## Historical Releases
-
-Older releases remain publicly accessible using the following format:
-
-```text
-techpixelv##.base44.app
-```
-
-Examples:
-
-```text
-techpixelv10.base44.app → Version 1.0
-techpixelv11.base44.app → Version 1.1
-techpixelv12.base44.app → Version 1.2
-```
+Only the current Astrax experience is supported.
 
 ---
 
-# 🚀 What Can TechPixel Do?
+# 🚀 What Can Astrax Do?
 
-TechPixel supports nearly every stage of the Bloxd development workflow.
+Astrax supports nearly every stage of the Bloxd development workflow.
 
 ## 💻 WorldCode Development
 
@@ -81,18 +65,18 @@ TechPixel supports nearly every stage of the Bloxd development workflow.
 
 ---
 
-## 🔍 Research & Planning
+## 🔍 Deep Research & Planning
 
-Use specialized execution pathways to think through difficult problems.
+Astrax takes research further than earlier versions with a more advanced investigation workflow.
 
-### Research Mode (v0.2.0)
+### Deep Research (v1.3)
 
-- Investigate complex topics.
-- Gather structured findings.
-- Explore implementation approaches.
-- Analyze systems in depth.
+- Investigate complex topics with structured multi-step planning.
+- Gather findings using live web search and official Bloxd Fandom Wiki integration.
+- Verify information across dedicated research sub-agents.
+- Produce clearer, more reliable summaries and reports.
 
-### Plan Mode (v0.2.0)
+### Project Planning
 
 - Break large projects into phases.
 - Generate development roadmaps.
@@ -101,9 +85,20 @@ Use specialized execution pathways to think through difficult problems.
 
 ---
 
+## 🎤 Voice & Workflow Enhancements
+
+Astrax makes everyday work faster and more natural.
+
+- Use voice dictation for hands-free prompting.
+- Paste large blocks of text and let Astrax organize them into structured attachments.
+- Keep projects moving with smoother, more polished interactions.
+- Enjoy a cleaner and more streamlined interface.
+
+---
+
 ## 🖼 PixelGen Image Generation
 
-Generate Bloxd-inspired visuals directly within TechPixel.
+Generate Bloxd-inspired visuals directly within Astrax.
 
 Create:
 
@@ -116,9 +111,9 @@ Create:
 
 ---
 
-## 🧠 Dynamic Memory
+## 🧠 Memory & Project Continuity
 
-Teach TechPixel what matters to you.
+Teach Astrax what matters to you and let it help you resume where you left off.
 
 Examples include:
 
@@ -126,14 +121,15 @@ Examples include:
 - Personal workflows
 - Ongoing projects
 - Reusable context
+- Recommended next steps for active systems
 
-You're always in control of what gets remembered.
+Astrax can remember active work and offer to continue it later, while keeping you in control of what gets remembered.
 
 ---
 
 ## 📚 Training & Knowledge Expansion
 
-Help improve TechPixel itself.
+Help improve Astrax itself.
 
 Features include:
 
@@ -169,11 +165,11 @@ Features include:
 - ✅ Script Debugging
 - ✅ Code Explanation
 - ✅ API Guidance
-- ✅ Web Search Integration
-- ✅ Extended Thinking
-- ✅ Adjustable Effort Levels
-- ✅ Research Mode v0.2.0
-- ✅ Plan Mode v0.2.0
+- ✅ Live Web Search Integration
+- ✅ Advanced Deep Research
+- ✅ Voice Dictation
+- ✅ Project Continuity
+- ✅ Multi-Agent Investigation Workflow
 
 ---
 
@@ -191,6 +187,7 @@ Features include:
 - ✅ Memory Controls
 - ✅ Theme Support
 - ✅ Profile Customization
+- ✅ More Reliable Memory Handling
 
 ---
 
@@ -202,6 +199,7 @@ Features include:
 - ✅ PDF Export
 - ✅ Keyword Search
 - ✅ Notifications
+- ✅ Text Attachments
 
 ---
 
@@ -213,6 +211,7 @@ Features include:
 - ✅ Community Sync Feed
 - ✅ Multiple Layout Variations
 - ✅ Session-Based Optimizations
+- ✅ Refined Animations and Smoother Transitions
 
 ---
 
@@ -246,9 +245,9 @@ Features include:
 
 Additional documentation can be found below:
 
-- 🚀 **Getting Started:** `GETTING_STARTED.md`
-- 🏗 **Architecture:** `ARCHITECTURE.md`
-- 🔒 **Privacy & Memory:** `PRIVACY.md`
+- 🚀 **Getting Started:** [About/GETTING_STARTED.md](About/GETTING_STARTED.md)
+- 🏗 **Architecture:** [About/ARCHITECTURE.md](About/ARCHITECTURE.md)
+- 🔒 **Privacy & Memory:** [About/PRIVACY.md](About/PRIVACY.md)
 
 ---
 
