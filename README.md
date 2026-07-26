@@ -255,6 +255,6 @@ Additional documentation can be found below:
 
 **Design. Research. Code. Create.**
 
-### TechPixel Agent v1.2
+### Astrax AI v1.3
 
 </div>
