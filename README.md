@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Astrax (v1.3)
+# ⚡ Astrax (v1.4)
 
 ### *The AI-Powered Bloxd.io Development Assistant*
 
@@ -17,7 +17,7 @@ Design. Research. Build. Create.
 
 ---
 
-![Version](https://img.shields.io/badge/version-v1.3-purple)
+![Version](https://img.shields.io/badge/version-v1.4-purple)
 ![Platform](https://img.shields.io/badge/platform-Astrax-blue)
 ![Status](https://img.shields.io/badge/status-Active-success)
 ![Bloxd](https://img.shields.io/badge/Bloxd.io-Specialized-orange)
@@ -34,6 +34,19 @@ Astrax is the next evolution of TechPixel Agent, now operating as a faster, more
 It combines WorldCode assistance, deeper research, creative generation, and project continuity into a single streamlined workspace. Whether you're debugging scripts, planning a new system, researching mechanics, or resuming an older project, Astrax is designed to help creators work faster and think more clearly.
 
 > **Think of Astrax as your Bloxd-focused AI copilot, now with stronger research, voice input, and continuity across projects.**
+
+## ✨ What’s New in v1.4
+
+Version 1.4 focuses on polish, reliability, and a smoother experience across the platform.
+
+- More dependable Deep Research with fewer mid-session failures and better recovery from provider limits
+- Cleaner final reports with more consistent formatting and clearer progress feedback
+- Improved voice dictation reliability for more consistent transcription
+- Better stability through smoother provider failover and background retries
+- More transparent memory behavior with fewer save/recall issues
+- Refined animations, layout spacing, and responsiveness across the interface
+
+For the full release summary, see [V1.4/Release Notes.md](V1.4/Release%20Notes.md).
 
 ---
 
@@ -69,7 +82,7 @@ Astrax supports nearly every stage of the Bloxd development workflow.
 
 Astrax takes research further than earlier versions with a more advanced investigation workflow.
 
-### Deep Research (v1.3)
+### Deep Research (v1.4)
 
 - Investigate complex topics with structured multi-step planning.
 - Gather findings using live web search and official Bloxd Fandom Wiki integration.
@@ -255,6 +268,6 @@ Additional documentation can be found below:
 
 **Design. Research. Code. Create.**
 
-### Astrax AI v1.3
+### Astrax AI v1.4
 
 </div>

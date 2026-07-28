@@ -4,7 +4,7 @@
 
 ### *Your Data. Your Control.*
 
-Understanding how Astrax (v1.3) handles conversations, memories, training submissions, and personalization.
+Understanding how Astrax (v1.4) handles conversations, memories, training submissions, and personalization.
 
 ---
 
@@ -403,7 +403,7 @@ We believe users deserve:
 
 <div align="center">
 
-## 🔒 Astrax (v1.3)
+## 🔒 Astrax (v1.4)
 
 **Your Data. Your Control.**
 
