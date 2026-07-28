@@ -232,21 +232,15 @@ Features include:
 
 <div align="center">
 
-<img width="1864" height="846" alt="Screenshot 2026-07-26 at 10 54 47 AM" src="https://github.com/user-attachments/assets/a68fe4ff-1f78-4f8f-9cf6-f667b7e93096" />
+<img width="1912" height="845" alt="Screenshot 2026-07-28 at 9 31 46 AM" src="https://github.com/user-attachments/assets/5f358da2-fbc9-48bc-863e-b6031f36c0e3" />
 
 <br><br>
 
-<img width="1866" height="842" alt="Screenshot 2026-07-26 at 10 56 05 AM" src="https://github.com/user-attachments/assets/24a305e0-4bae-40d6-a898-dd7b629d6e31" />
-
-
-<br><br>
-
-<img width="1003" height="465" alt="Screenshot 2026-07-26 at 10 55 02 AM" src="https://github.com/user-attachments/assets/220619f4-43cf-4cb7-a020-de4a4eee8c4b" />
-
+<img width="1912" height="846" alt="Screenshot 2026-07-28 at 9 31 08 AM" src="https://github.com/user-attachments/assets/9923de39-9e23-4e8a-9a0d-8641420a83c3" />
 
 <br><br>
 
-<img width="1866" height="842" alt="Screenshot 2026-07-26 at 10 56 43 AM" src="https://github.com/user-attachments/assets/2ddef6b5-3631-4b29-a9ea-6941a59366af" />
+<img width="1912" height="845" alt="Screenshot 2026-07-28 at 9 31 46 AM" src="https://github.com/user-attachments/assets/11c55211-d94d-447d-869f-bce879d2237f" />
 
 </div>
 
