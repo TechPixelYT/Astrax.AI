@@ -1,3 +1,36 @@
+Release Notes (v1.5)
+Date: [FILL IN RELEASE DATE]
+Version 1.5 is a major release — the biggest yet. It introduces Orbit, a dedicated coding mode for Bloxd World Code, alongside a complete rebuild of Astrax's Bloxd knowledge and a smarter multi-model AI system. This is a foundational leap in what Astrax can build and how accurately it answers.
+
+Orbit — Dedicated Coding Mode
+- A full coding workspace built for Bloxd World Code for Astrax. Switch modes and the interface transforms into a split editor + chat layout.
+- Generate and Revise modes for writing new code or refining existing code.
+- Built-in Bloxd linter with inline, hoverable error detection and a "Fix with Orbit" option.
+- Grounded in the real Bloxd API, so Orbit uses functions and callbacks that actually exist.
+
+Bloxd Knowledge Rebuild
+- Complete rewrite of Astrax's Bloxd knowledge base — roughly 1,500 lines of verified info covering weapons, blocks, mobs, biomes, crafting, the full coding API, and more.
+- Every stat cross-checked so Astrax answers accurately instead of guessing.
+
+Smarter Multi-Model AI
+- Astrax now automatically picks the right model for the task — fast for general questions, stronger for coding, and the best coding model in Orbit.
+- Moved on from GPT-4o-mini as the default, with a wider, more capable range of models.
+
+Dev Testing Program
+- Introduced a Dev Tester program — trusted testers get an upgraded experience with tools to report issues, flag bad responses, and help train Astrax directly.
+- Reports and feedback route straight to the dev, making it faster to catch bugs and improve accuracy across the app.
+- Want in? Reach out on Reddit (u/Own_Body_9771) to join the tester team.
+
+PixelGen is still planned for removal, with Astrax's own built-in image generator now targeted for a later release (v2.0).
+
+What's Next — Rapid-Fire Updates
+After the massive v1.3 and v1.5 release, the next four updates (v1.6, v1.7, v1.8, and v1.9) will be rapid-fire — small, focused polish and refinement releases shipping just 1–2 days apart. Expect quick fixes, quality-of-life improvements, and steady refinements as Orbit and the rebuilt knowledge base get battle-tested in the wild, all leading up to v2.0.
+
+⚠️ Warning: Orbit and several systems remain in active development (Beta). Performance, reliability, and feature availability may continue to evolve.
+If you encounter any bugs, formatting issues, or unexpected behavior, please report them on Reddit: Contact Own_Body_9771 on Reddit.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Release Notes (v1.4)
 Date: July 28, 2026
 Version 1.4 is a refinement release focused on polish. After the major rebuild in v1.3, this update tightens up the experience where it matters most: Deep Research is more dependable, the interface feels cleaner, and Astrax is more stable across the board. It is not a sweeping feature release, but a meaningful step toward making the platform feel faster, calmer, and more reliable.
